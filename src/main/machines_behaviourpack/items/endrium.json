@@ -1,0 +1,14 @@
+{
+  "format_version": "1.19.2"
+  "minecraft:item": {
+  "description": {
+  "identifier": "minecraft:endrium"
+  "minecraft:max_stack_ize": 64,
+},
+"components": {
+  "minecraft.icon": {
+  "texture": "endrium"
+}
+}
+}
+}
